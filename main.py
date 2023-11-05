@@ -10,7 +10,7 @@ import random
 # players are allowed to roll infinitely as long as they keep getting doubles
 # there are likely some other minor differences because this is not a 1:1 implementation of monopoly's ruleset
 
-# modified the size to be 800x800, 1000x1000 went off screen for me
+# modified the size to be less, 1000x1000 went off screen for me
 size = width, height = (900, 900)
 
 # initializes various things related to the pygame library
